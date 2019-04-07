@@ -1,0 +1,3 @@
+module.exports = {
+    VK_TOKEN: "a85d92ef81852677d329871163098beb26dc20181b690ff64d755b74a2a297af8a0e36c0c6ab26a391ca4",
+};
